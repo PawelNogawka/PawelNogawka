@@ -20,7 +20,7 @@ I learned everything by myself, mainly from Udemy courses, but also from program
 </p>
 <p align="left">
 After learning the basics of CSs and Javascript, I decided to create simple websites to train my skills.
-I first designed each page I created in the <a href="https://www.figma.com/files/recent?fuid=1113404051460105795"> figma application </a>
+I first designed each page I created in the figma application
 On each page, I tried to put various components to learn something new in the field of CSS and JavaScript each time. These are various sliders, animations, cards, 3d effects, accordions, business cards, API and much more.
 One of the pages that I created is available on the Internet at the address:
 <a href="https://kongrod.pl/"> https://kongrod.pl/ </a>
