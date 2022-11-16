@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Paweł</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pawelnogawka&label=Profile%20views&color=0e75b6&style=flat" alt="pawelnogawka" /> </p>
 
 - 🌱 I’m currently learning **JavaScript, Css and React**
 
