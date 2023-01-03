@@ -23,7 +23,9 @@
   </br>
   </br>
   Almost all of the projects were done for learning and portfolio purposes, with the exception of two:
-  -
+  </br>
+  - https://github.com/PawelNogawka/konGrod-carpenter
+  - https://github.com/PawelNogawka/kongrod-blog-next
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawelnogawka&show_icons=true&locale=en&layout=compact" alt="pawelnogawka" /></p>
