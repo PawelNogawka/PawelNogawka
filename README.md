@@ -17,6 +17,7 @@
 <h3 align="left">About profile:</h3>
 <p align="left">
   There are a lot of projects on my account, the most important ones for me are pinned below.
+  </br>
   Most of my projects are simple websites where I learned the basics of HTML, CSS, and JavaScript, animations, and design. For the past 2 months, while learning React and Next, I have also built a few simple applications which are pinned below.
 </p>
 
