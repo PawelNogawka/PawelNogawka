@@ -20,6 +20,10 @@
   </br>
   </br>
   Most of my projects are simple websites where I learned the basics of HTML, CSS, and JavaScript, animations, and design. For the past 2 months, while learning React and Next, I have also built a few simple applications which are pinned below.
+  </br>
+  </br>
+  Almost all of the projects were done for learning and portfolio purposes, with the exception of two:
+  -
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawelnogawka&show_icons=true&locale=en&layout=compact" alt="pawelnogawka" /></p>
