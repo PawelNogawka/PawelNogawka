@@ -25,7 +25,7 @@
   Almost all of the projects were done for learning and portfolio purposes, with the exception of two:
   <ul>
  <li>  https://github.com/PawelNogawka/konGrod-carpenter</li>
-  <li> https://github.com/PawelNogawka/kongrod-blog-next</li>
+  <li> https://kongrod-blog-next.vercel.app/</li>
   </ul
 </p>
   </br>
